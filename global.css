@@ -1,6 +1,5 @@
 body{
     background-color: rgb(53, 52, 59);
-    list-style: none;
 }
 html,body,h1,h2,h3,h4,h5,h6, p{
     color: lightgray;
@@ -9,3 +8,8 @@ html,body,h1,h2,h3,h4,h5,h6, p{
 .newclass{
     color: lightgray;
 }
+
+.corpo{
+    color: rgb(0, 136, 255);
+}
+
